@@ -13,7 +13,6 @@
 #include <stdbool.h>
 #include <ctype.h>
 #include <errno.h>
-#include "../jimbo.h"
 #include "darray.h"
 
 #define FS_MALLOC malloc
